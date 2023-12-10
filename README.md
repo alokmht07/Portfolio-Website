@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website live demo
-  <a href="https://alokmhtportfolio.netlify.app/" target="_blank">AlokmhtPortfolio</a>
+  <a href="https://alokmht07.netlify.app/" target="_blank">AlokmhtPortfolio</a>
 </h2>
 
 ## Built With
